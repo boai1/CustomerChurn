@@ -15,4 +15,4 @@ This repository demonstrates the implementation of 3 models:
 The 3 models achieve the following accuracies:
 - XGB: 80%
 - Random Forest: 81%
-- Neural Network: 79%
+- Neural Network: 80%
